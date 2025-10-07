@@ -40,3 +40,12 @@ Developed by: RegisterNumber:
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 **RESULTS**
+logic diagram
+
+![exp6 1](https://github.com/user-attachments/assets/f7a5371e-aa1c-413f-8b45-3f849368ebdb)
+
+clock pulse
+
+![exp6 2](https://github.com/user-attachments/assets/edc5ccc7-b9a7-460f-b52b-71aa9b98c3fd)
+
+
